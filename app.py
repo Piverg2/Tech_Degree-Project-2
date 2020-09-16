@@ -80,7 +80,7 @@ def main():
             main()
         else:
             print("Thanks for viewing Basketball Stats!\n")
-    elif menu_option == 2:
+    else:
         print("Thanks for viewing Basketball Stats!\n")
         sys.exit()
 
