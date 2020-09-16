@@ -1,5 +1,7 @@
 # Python Web Development Techdegree
 # Project 2 - Basketball Stats - Gavyn Piver
+# sources: https://teamtreehouse.com/library/python-sequences/sequence-operations/sequence-operations-cheat-sheet, https://www.w3schools.com/python/python_lists.asp, https://www.w3schools.com/python/python_try_except.asp
+# Slack Community was also an awesome resource for this project. Helping others grow and learn is an awesome expieroence. 
 # --------------------------------
 import constants
 import sys
